@@ -1,0 +1,6 @@
+TITLE:Shopping list
+BODY:Milk, Eggs, Bread
+---
+TITLE:Project Ideas
+BODY:Terminal vault with encryption
+---
